@@ -1,0 +1,9 @@
+syft==0.1.23a1
+torchnet==0.0.4
+torchvision==0.3.0
+numpy==1.16.4
+fire==0.2.1
+visdom==0.1.8.8
+ipdb==0.12.2
+torch==1.1.0
+Pillow==6.1.0
