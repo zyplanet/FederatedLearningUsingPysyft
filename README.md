@@ -11,7 +11,7 @@
 这里有一些便于理解的教程：
 
 * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
-* [Building better products with on-device data and privacy by default]([https://federated.withgoogle.com](https://federated.withgoogle.com/))
+* [Building better products with on-device data and privacy by default](https://federated.withgoogle.com/)
 
 ### pysyft
 
